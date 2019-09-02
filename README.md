@@ -1,8 +1,4 @@
-GUIA PARA ELABORAR LA IDEA DE PROPUESTA PARA PPI-T
 
-COMPETENCIAS A DESARROLLAR EN LA ELABORACIÓN DE LA IDEA
-Capacidad para encontrar, relacionar y estructurar información proveniente de diversas fuentes e integrar ideas.
-Capacidad de comunicación efectiva con el usuario en un lenguaje no técnico y de comprender sus necesidades. 
 
 Nombre Completo del Estudiante
 Documento de ident.
@@ -16,20 +12,22 @@ santiago_valencia23181@elpoli.edu.co
 Laura Marcela Londoño Mejia 
 1193081476
 laura_londono23181@elpoli.edu.co
-Lea con atención y tenga en cuenta las siguientes pautas para la correcta elaboración de su propuesta.  Por favor diligéncielo en forma concreta y con letra clara.
 
 RESUMEN DE LA PROPUESTA
+
 NOMBRE DE LA EMPRESA: Softcaribbean (Yaneth valencia)
-DIRECCIÓN: Relacione la dirección, barrio y teléfono de la Empresa a la cual le va a desarrollar el software.
 CONTACTO: Yaneth valencia 300 5746640
 TÍTULO TENTATIVO DEL PROYECTO: Sistematización de procesos de gestión humana Softcaribbean
+
+
 DESCRIPCIÓN DEL PROBLEMA:
 Softcaribbean es una empresa enfocada en el préstamo de servicios de desarrollo de software para todo tipo de cliente.
 Desde el área de gestión humana de la empresa se llevan los procesos de Selección y contratación, Información de los empleados, Planeación y gestionamiento de actividades, sin embargo, estos procesos son almacenados en carpetas y archivos de distintos formatos, como Excel, Word, Power point y otros de forma local, sin tener ninguna copia o respaldo en base de datos o en la nube, impidiendo la organización, integrabilidad y búsqueda de información efectiva. Esto también ha llevado a:
-la poca eficiencia en la actualización, búsqueda y eliminación de datos como en el caso de las hojas de vida las cuales son revisadas y modificadas cada año junto al empleado, haciendo que se desperdicie talento y conocimientos porque durante el año los administrativos y directores de proyectos no se enteran de las nuevas competencias adquiridas por el personal. 
+
+La poca eficiencia en la actualización, búsqueda y eliminación de datos como en el caso de las hojas de vida las cuales son revisadas y modificadas cada año junto al empleado, haciendo que se desperdicie talento y conocimientos porque durante el año los administrativos y directores de proyectos no se enteran de las nuevas competencias adquiridas por el personal. 
 Cuando se trata de otra información que debe ser actualizada de inmediato como los datos básicos de la salud, las cuentas bancarias, fondo de pensiones, caja de compensación, etc… son editados o eliminados, pero no puede validarse que no se haya modificado por error otro registro o que la información que se ingresó es correcta. Además, hay una gran dificultad para guardar histórico de los empleados despedidos porque estos permanecen en el mismo archivo de los contratados.
 
- la pérdida del detalle, trazabilidad de actividades necesarias para cumplir con los lineamientos de la empresa e histórico de gastos ocasionados por estas. Esto se debe a que no hay ningún sitio, a parte del calendario físico, donde quede evidencia de si se realizó una actividad o no, no queda más que en los recuerdos y fotos lo que se hizo en cada actividad y aunque todo tiene el consentimiento de gerencia no se puede saber con exactitud cuánto se invirtió.
+La pérdida del detalle, trazabilidad de actividades necesarias para cumplir con los lineamientos de la empresa e histórico de gastos ocasionados por estas. Esto se debe a que no hay ningún sitio, a parte del calendario físico, donde quede evidencia de si se realizó una actividad o no, no queda más que en los recuerdos y fotos lo que se hizo en cada actividad y aunque todo tiene el consentimiento de gerencia no se puede saber con exactitud cuánto se invirtió.
 A parte de esto, cuando se planea una actividad no todos pueden asistir debido a que los líderes de equipo no son avisados para dar los permisos u organizar un plan de trabajo que no se vea afectado esa semana por las actividades de bienestar. Recurrentemente se presentan casos donde gestión humana le pregunta a varios empleados si asistieron o si recuerdan que se hizo en determinada actividad para dar los regalos, premios, planear otra actividad y marque la diferencia con otras o poder organizar temas administrativos.
 
 La prolongación de procesos, como en el caso de las evaluaciones de desempeño, ya que para cada empleado se deben revisar de 3 a 6 evaluaciones calificadas por diferentes personas. Esto se maneja por correo electrónico y archivos Excel lo que hace imposible calificar a muchas personas a la vez sin crear desorden y al evaluar de 2 a 4 personas por día hace que los procesos de evaluación duren varias semanas.
@@ -40,12 +38,13 @@ Agregado a esto, no se tienen indicadores ni forma de obtenerlos.
 JUSTIFICACIÓN
 Utilidad.  ¿Para qué sirve?
 Para el almacenamiento e integración de información en las distintas actividades realizadas por el área de gestión humana, permitiendo así un mejor control y optimización  sobre los procesos que están llevando a cabo por una parte de la empresa.  
-Conveniencia.   ¿Por qué hacerlo? o ¿Por qué es importante hacerlo?
 
+Conveniencia.   ¿Por qué hacerlo? o ¿Por qué es importante hacerlo?
 Para evitar riesgos a futuro, como:
-La pérdida de información en caso de dañarse el ordenador de la persona encargada hoy en día (todos los documentos están guardados de forma local)
+La pérdida de información en caso de dañarse el ordenador de la persona encargada hoy en día (todos los documentos están guardados de forma local).
 Dificultades en la adaptación y contextualización del estado de los procesos en caso de contratar nuevo personal en esta área.
 Además se podrá comenzar la implementación de indicadores.
+
 ALCANCE
 
 Empleados
@@ -90,37 +89,4 @@ OBJETIVOS ESPECÍFICOS
 Realizar un desarrollo web que permita realizar la manipulación de las actividades, indicadores y demás procesos en gestión humana.
 Desarrollar herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
 
-
-
-
-
-
-FORMATO IDEA DE PROPUESTA PARA PPI-T
-
-
-Firma digital estudiantes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Este espacio es para diligenciar por parte de los evaluadores
-Seleccione con una X
-                                               Aprobado (    )			Rechazado (    )
-Observaciones:  ______________________________________________________________________________________
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Datos del Evaluador
-Nombre: _______________________________________   Firma: _________________________________________
 
