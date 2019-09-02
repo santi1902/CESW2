@@ -1,14 +1,19 @@
 
 
 INTEGRANTES
+
 Angie Carolina Orlas Madrid 1007239625 angie_orlas23181@elpoli.edu.co
+
 Santiago Valencia Gusmán 1000395174 santiago_valencia23181@elpoli.edu.co
+
 Laura Marcela Londoño Mejia 1193081476 laura_londono23181@elpoli.edu.co
 
 RESUMEN DE LA PROPUESTA
 
-NOMBRE DE LA EMPRESA: Softcaribbean (Yaneth valencia)
+NOMBRE DE LA EMPRESA: Softcaribbean 
+
 CONTACTO: Yaneth valencia 300 574 6640
+
 TÍTULO DEL PROYECTO: Sistematización de procesos de gestión humana Softcaribbean
 
  
