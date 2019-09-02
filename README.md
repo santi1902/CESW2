@@ -1,25 +1,17 @@
 
 
-Nombre Completo del Estudiante
-Documento de ident.
-Correo
-Angie Carolina Orlas Madrid
-1007239625
-angie_orlas23181@elpoli.edu.co
-Santiago Valencia Gusmán
-1000395174
-santiago_valencia23181@elpoli.edu.co
-Laura Marcela Londoño Mejia 
-1193081476
-laura_londono23181@elpoli.edu.co
+INTEGRANTES
+Angie Carolina Orlas Madrid 1007239625 angie_orlas23181@elpoli.edu.co
+Santiago Valencia Gusmán 1000395174 santiago_valencia23181@elpoli.edu.co
+Laura Marcela Londoño Mejia 1193081476 laura_londono23181@elpoli.edu.co
 
 RESUMEN DE LA PROPUESTA
 
 NOMBRE DE LA EMPRESA: Softcaribbean (Yaneth valencia)
-CONTACTO: Yaneth valencia 300 5746640
-TÍTULO TENTATIVO DEL PROYECTO: Sistematización de procesos de gestión humana Softcaribbean
+CONTACTO: Yaneth valencia 300 574 6640
+TÍTULO DEL PROYECTO: Sistematización de procesos de gestión humana Softcaribbean
 
-
+ 
 DESCRIPCIÓN DEL PROBLEMA:
 Softcaribbean es una empresa enfocada en el préstamo de servicios de desarrollo de software para todo tipo de cliente.
 Desde el área de gestión humana de la empresa se llevan los procesos de Selección y contratación, Información de los empleados, Planeación y gestionamiento de actividades, sin embargo, estos procesos son almacenados en carpetas y archivos de distintos formatos, como Excel, Word, Power point y otros de forma local, sin tener ninguna copia o respaldo en base de datos o en la nube, impidiendo la organización, integrabilidad y búsqueda de información efectiva. Esto también ha llevado a:
@@ -78,7 +70,7 @@ El aplicativo contará con dos perfiles, el de gestión humana y el de analista.
 Las cuentan sólo podrán ser creadas y eliminadas desde el perfil de gestión humana.
 
 Indicadores
-
+Mostrará los informes y seguimientos de los distintos programas. Solo visible para gestión humana.
 
 OBJETIVO GENERAL
 Implementar un sistema web que gestione y lleve el seguimiento de algunos procesos que ocurren dentro del área de gestión humana llenando una mejor sistematización de estos.
@@ -86,7 +78,8 @@ Implementar un sistema web que gestione y lleve el seguimiento de algunos proces
 
 OBJETIVOS ESPECÍFICOS
 
-Realizar un desarrollo web que permita realizar la manipulación de las actividades, indicadores y demás procesos en gestión humana.
-Desarrollar herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
+Analizar los requerimientos y especificaciones del cliente para el planteamiento de métodos, procesos y modelos del proyecto.
+Diseñar un aplicativo web que permita la creación, edición y visualización de las actividades, indicadores y demás procesos en gestión humana.
+Desarrollar una herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
 
 
