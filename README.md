@@ -84,7 +84,9 @@ Implementar un sistema web que gestione y lleve el seguimiento de algunos proces
 OBJETIVOS ESPECÍFICOS
 
 Analizar los requerimientos y especificaciones del cliente para el planteamiento de métodos, procesos y modelos del proyecto.
+
 Diseñar un aplicativo web que permita la creación, edición y visualización de las actividades, indicadores y demás procesos en gestión humana.
-Desarrollar una herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
+
+una herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
 
 
