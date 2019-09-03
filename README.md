@@ -87,6 +87,4 @@ Analizar los requerimientos y especificaciones del cliente para el planteamiento
 
 Diseñar un aplicativo web que permita la creación, edición y visualización de las actividades, indicadores y demás procesos en gestión humana.
 
-una herramienta de almacenamiento de información, cumpliendo con lineamientos a mejorar de cómo se maneja hoy en día.
-
 
